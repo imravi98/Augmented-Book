@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minor_project_gandhi_augmented_book", "VuforiaScripts.csproj", "{ADFE2053-2711-5CF1-0512-26E6FF0C758B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minor_project_gandhi_augmented_book", "VuforiaEditorScripts.csproj", "{D4FE95CC-B312-CB61-795A-EACE7F94F144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFE2053-2711-5CF1-0512-26E6FF0C758B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFE2053-2711-5CF1-0512-26E6FF0C758B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFE2053-2711-5CF1-0512-26E6FF0C758B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFE2053-2711-5CF1-0512-26E6FF0C758B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FE95CC-B312-CB61-795A-EACE7F94F144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FE95CC-B312-CB61-795A-EACE7F94F144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FE95CC-B312-CB61-795A-EACE7F94F144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FE95CC-B312-CB61-795A-EACE7F94F144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
